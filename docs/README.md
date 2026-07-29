@@ -1,8 +1,3 @@
-# Light SDK Docs
+# 📖 Light SDK Documentation (`light-sdk/docs`)
 
-Topics:
-- [Navigating this repository](repo)
-- [Overview of Light primitives (tool building blocks)](../sdk/client)
-- [Declaring tool metadata (name, version, etc.)](tool_metadata)
-- [Using the LightOS Emulator](system_app)
-
+This directory contains technical guides, API references, architecture decision records, and release notes for the Light SDK platform.
