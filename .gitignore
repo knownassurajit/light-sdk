@@ -50,3 +50,7 @@ bin/
 __pycache__/
 *.py[cod]
 .pytest_cache/
+
+### Personal Documentation Files ###
+OVERVIEW.md
+**/OVERVIEW.md
