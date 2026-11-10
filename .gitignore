@@ -54,3 +54,8 @@ __pycache__/
 ### Personal Documentation Files ###
 OVERVIEW.md
 **/OVERVIEW.md
+
+# ECC / Cursor local logs
+.cursor/*.log
+.cursor/ecc-install-state.json
+.ecc/
